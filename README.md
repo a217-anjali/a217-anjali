@@ -15,10 +15,6 @@ AI/ML Engineer focused on building reliable, evaluable AI systems.
 | [llm-evaluation-framework](https://github.com/a217-anjali/llm-evaluation-framework) | Assessment tools for evaluating language models |
 | [llm-eval-hub](https://github.com/a217-anjali/llm-eval-hub) | Centralised LLM evaluation resources and benchmarks |
 
-## Get in touch
-
-- [Personal site](https://a217-anjali.github.io)
-
 ---
 
 *Views and projects here are my own.*
