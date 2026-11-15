@@ -1,6 +1,6 @@
 # Hi, I'm Anjali
 
-AI/ML Engineer focused on building reliable, evaluable AI systems.
+Focused on building reliable, evaluable AI systems.
 
 ## What I'm working on
 
